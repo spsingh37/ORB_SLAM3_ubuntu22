@@ -131,7 +131,7 @@ python evaluation/evaluate_ate_scale.py evaluation/Ground_truth/EuRoC_left_cam/M
 open the pdf `MH01_stereo.pdf` and you see the 
 
 ## Acknowledgements
-[ORB-SLAM3 original guide](https://github.com/UZ-SLAMLab/ORB_SLAM3/tree/master)
+[ORB-SLAM3 original guide](https://github.com/UZ-SLAMLab/ORB_SLAM3/tree/master)<br>
 [ORB-SLAM3 for Ubuntu 22.04](https://gist.github.com/bharath5673/4295e666cbe654a83226a2549a972c4f)
 
 
